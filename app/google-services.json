@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096619449085",
+    "project_id": "marketplace-9ee5b",
+    "storage_bucket": "marketplace-9ee5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096619449085:android:dd7e492b8740e520757c94",
+        "android_client_info": {
+          "package_name": "com.android.shoppingzoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJJRuixv5LLKaE-1-QrhABrXSaSdpz6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
